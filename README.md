@@ -1,6 +1,6 @@
 # Some Shitty Minecraft Scripts
 
-## ./minecraft-client
+## minecraft-client
 
 Simple helper scripts to update and run the client.
 
