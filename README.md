@@ -1,4 +1,4 @@
-# Some Shitty Minecraft Scripts
+# Minecraft Scripts & Notes
 
 ## minecraft-client
 
